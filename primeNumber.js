@@ -13,7 +13,6 @@ function primeNum(n) {
 }
 
 
-
 console.log(primeNum(1)); // true
 console.log(primeNum(4)); // false
 console.log(primeNum(5)); // true
